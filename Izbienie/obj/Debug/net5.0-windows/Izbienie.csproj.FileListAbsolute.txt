@@ -1,0 +1,7 @@
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.csproj.AssemblyReference.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.Form1.resources
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.csproj.GenerateResource.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.AssemblyInfoInputs.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.AssemblyInfo.cs
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Debug\net5.0-windows\Izbienie.csproj.CoreCompileInputs.cache

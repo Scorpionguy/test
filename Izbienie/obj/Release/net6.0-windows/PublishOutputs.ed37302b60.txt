@@ -1,0 +1,5 @@
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\Checking\Izbienie.exe
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\Checking\Izbienie.dll
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\Checking\Izbienie.deps.json
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\Checking\Izbienie.runtimeconfig.json
+C:\Users\lapin\OneDrive\Рабочий стол\Hyekti\Checking\Izbienie.pdb

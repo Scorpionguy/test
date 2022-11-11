@@ -1,0 +1,17 @@
+C:\Users\lapin\source\repos\Izbienie\Izbienie\bin\Release\net6.0-windows\Izbienie.exe
+C:\Users\lapin\source\repos\Izbienie\Izbienie\bin\Release\net6.0-windows\Izbienie.deps.json
+C:\Users\lapin\source\repos\Izbienie\Izbienie\bin\Release\net6.0-windows\Izbienie.runtimeconfig.json
+C:\Users\lapin\source\repos\Izbienie\Izbienie\bin\Release\net6.0-windows\Izbienie.dll
+C:\Users\lapin\source\repos\Izbienie\Izbienie\bin\Release\net6.0-windows\Izbienie.pdb
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.csproj.AssemblyReference.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.Form1.resources
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.csproj.GenerateResource.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.AssemblyInfoInputs.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.AssemblyInfo.cs
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.csproj.CoreCompileInputs.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.dll
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\refint\Izbienie.dll
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.pdb
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\Izbienie.genruntimeconfig.cache
+C:\Users\lapin\source\repos\Izbienie\Izbienie\obj\Release\net6.0-windows\ref\Izbienie.dll
